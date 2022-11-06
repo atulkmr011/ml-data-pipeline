@@ -3,6 +3,7 @@
 
 This repo help us to know how to publish and consume data to and from kafka confluent in json format.
 
+# "ctrl + shift+ p" select base the select bash
 Step 1: Create a conda environment
 ```
 conda --version
